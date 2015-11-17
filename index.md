@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: homepage
 title: "LightGames"
 ---
 LightGames is a set of challenges to learn programming in a fun way. The
