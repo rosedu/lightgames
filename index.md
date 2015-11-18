@@ -30,3 +30,13 @@ and publish your own version online, so anybody can play in their web browser.
 ## Challenges
 
 ...
+
+
+## About
+
+LightGames was made at the [2015 EUhackathon](http://www.2015.euhackathon.eu)
+by [Alex Palcuie](https://twitter.com/alexpalcuie) and [Alex
+Morega](https://grep.ro) from [ROSEdu](http://www.rosedu.org/).
+
+We're looking for teachers to help us make learning materials and try out
+LightGames in the field. Drop us a message and say hello!
