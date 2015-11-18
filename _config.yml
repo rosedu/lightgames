@@ -1,1 +1,4 @@
 base_url: '/lightgames'
+
+collections:
+  challenges: {}

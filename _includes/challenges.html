@@ -1,0 +1,26 @@
+{% assign challenges = site.challenges | sort: 'url' %}
+{% for challenge in challenges %}
+
+<div class="row">
+
+  <div class="col-sm-6">
+
+    <h5>
+      <a href="{{ challenge.github_url }}">
+        {{ challenge.title }}
+      </a>
+    </h5>
+
+    {{ challenge.content }}
+
+  </div>
+
+  <div class="col-sm-6">
+    <img class="challenge-screenshot" src="{{ challenge.screenshot }}">
+  </div>
+
+</div>
+
+<hr>
+
+{% endfor %}

@@ -31,20 +31,7 @@ and publish your own version online, so anybody can play in their web browser.
 
 ## Challenges
 
-* **game1 – Overcome gravity, or hack it!**
-
-  The ship flies to the right but then falls into the abyss. The gravity is
-  strong on this planet, what can we do about it?
-
-* **game2 – You can move left, what about right?**
-
-  Our engines for going left work fine, but we can't move to the right.
-  Engineering, please fix this!
-
-* **game3 – Up, up and away!**
-
-  We found this floating box in the sky, let's go and see what's in it!
-
+{% include challenges.html %}
 
 ## About
 
